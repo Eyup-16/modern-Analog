@@ -2,7 +2,7 @@
 
 A sleek, minimalist analog clock that displays real-time with smooth animations. Built with pure HTML, CSS, and JavaScript.
 
-![Clock Preview](https://modern-analog.netlify.app/) 
+[Clock Preview](https://modern-analog.netlify.app/) 
 
 ---
 
